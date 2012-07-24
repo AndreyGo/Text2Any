@@ -1,0 +1,6 @@
+config:menu=top,left,right;access=755;document_root=self/test
+Parent Folder
+	Subfolder
+		SubSubFolder
+New folder:access=555
+shared:access=777
